@@ -21,7 +21,7 @@ Pod::Spec.new do |s|
   # s.source_files = 'Sources/CustomDump/**/*'
   
   # Dependencies from specified repositories
-  s.dependency 'XCTestDynamicOverlay', '~> 1.2.2'
+  #s.dependency 'XCTestDynamicOverlay', '~> 1.2.2'
   
   # Note: IssueReporting is part of XCTestDynamicOverlay package
   # We're referencing both modules from the same package
